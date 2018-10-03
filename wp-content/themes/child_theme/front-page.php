@@ -37,7 +37,7 @@
     </div>
 </div>
 <!-- Layer Slider Add ---->
-<?php echo do_shortcode('[rlslider id=566]');?>
+<?php //echo do_shortcode('[rlslider id=566]');?>
 
 <!---End Here--->
 <div class="get-there">
