@@ -150,14 +150,14 @@
         </div>
     </div>
 </div>
-<?php get_template_part('template-pages/future'); ?>
+<?php //get_template_part('template-pages/future'); ?>
 
-<?php get_template_part('template-parts/station/station-title'); ?>
-<?php get_template_part('template-parts/station/station-main'); ?>
+<?php //get_template_part('template-parts/station/station-title'); ?>
+<?php //get_template_part('template-parts/station/station-main'); ?>
 
-<?php get_template_part('template-pages/languagescholarship'); ?>
+<?php //get_template_part('template-pages/languagescholarship'); ?>
 
-<?php get_template_part('template-pages/template-requirement'); ?>
+<?php //get_template_part('template-pages/template-requirement'); ?>
 
 <div class="success-story">
     <div class="container">
